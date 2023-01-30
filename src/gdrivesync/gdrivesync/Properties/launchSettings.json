@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gdrivesync": {
+      "commandName": "Project",
+      "commandLineArgs": "sync --local \"D:\\3dPrinting\\D&D Figures\\MZ4250 3D Miniature Models\" --driveFolderId \"1gGXkWsMhqzxroc4Qpru1uvo00BUYSHkm\" --excludeExt \"blend\" --excludeExt \"blend1\" --excludeExt \"photon\""
+    }
+  }
+}
